@@ -1,0 +1,190 @@
+﻿  main.cpp
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\obstacle.h(26,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\obstacle.h(26,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(27,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(27,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(40,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(41,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(42,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(43,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(44,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(109,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(118,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(126,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(135,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(153,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(153,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(162,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(162,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(171,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(171,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(180,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(180,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(189,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(189,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(218,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(222,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(222,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(224,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(224,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(231,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(231,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(232,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(232,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(238,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(238,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(239,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(239,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(245,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(245,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(248,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(248,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(252,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(252,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(254,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\main.cpp(254,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Test.cpp
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\obstacle.h(26,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Pong\obstacle.h(26,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 150 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pong.vcxproj -> C:\Users\aarya\Desktop\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame12_9_22\AsteroidsArcadeGame\Release\Pong.exe

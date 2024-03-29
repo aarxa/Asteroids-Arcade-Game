@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Pong\main.cpp(21,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Pong\main.cpp(21,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Pong\main.cpp(50,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Pong\main.cpp(54,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Pong\main.cpp(62,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\auser\Desktop\Fall2022\CptS122\Pong\Pong4\Debug\Pong.exe
